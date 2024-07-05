@@ -1,0 +1,17 @@
+/Users/kevinkusy/Documents/Projects/test-polly-retry/infrastructure/bin/Debug/net8.0/infrastructure.deps.json
+/Users/kevinkusy/Documents/Projects/test-polly-retry/infrastructure/bin/Debug/net8.0/infrastructure.dll
+/Users/kevinkusy/Documents/Projects/test-polly-retry/infrastructure/bin/Debug/net8.0/infrastructure.pdb
+/Users/kevinkusy/Documents/Projects/test-polly-retry/infrastructure/bin/Debug/net8.0/application.dll
+/Users/kevinkusy/Documents/Projects/test-polly-retry/infrastructure/bin/Debug/net8.0/domain.dll
+/Users/kevinkusy/Documents/Projects/test-polly-retry/infrastructure/bin/Debug/net8.0/application.pdb
+/Users/kevinkusy/Documents/Projects/test-polly-retry/infrastructure/bin/Debug/net8.0/domain.pdb
+/Users/kevinkusy/Documents/Projects/test-polly-retry/infrastructure/obj/Debug/net8.0/infrastructure.csproj.AssemblyReference.cache
+/Users/kevinkusy/Documents/Projects/test-polly-retry/infrastructure/obj/Debug/net8.0/infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevinkusy/Documents/Projects/test-polly-retry/infrastructure/obj/Debug/net8.0/infrastructure.AssemblyInfoInputs.cache
+/Users/kevinkusy/Documents/Projects/test-polly-retry/infrastructure/obj/Debug/net8.0/infrastructure.AssemblyInfo.cs
+/Users/kevinkusy/Documents/Projects/test-polly-retry/infrastructure/obj/Debug/net8.0/infrastructure.csproj.CoreCompileInputs.cache
+/Users/kevinkusy/Documents/Projects/test-polly-retry/infrastructure/obj/Debug/net8.0/infrastr.D83B591B.Up2Date
+/Users/kevinkusy/Documents/Projects/test-polly-retry/infrastructure/obj/Debug/net8.0/infrastructure.dll
+/Users/kevinkusy/Documents/Projects/test-polly-retry/infrastructure/obj/Debug/net8.0/refint/infrastructure.dll
+/Users/kevinkusy/Documents/Projects/test-polly-retry/infrastructure/obj/Debug/net8.0/infrastructure.pdb
+/Users/kevinkusy/Documents/Projects/test-polly-retry/infrastructure/obj/Debug/net8.0/ref/infrastructure.dll

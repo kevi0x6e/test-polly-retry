@@ -1,0 +1,15 @@
+/Users/kevinkusy/Documents/Projects/test-polly-retry/application/bin/Debug/net8.0/application.deps.json
+/Users/kevinkusy/Documents/Projects/test-polly-retry/application/bin/Debug/net8.0/application.dll
+/Users/kevinkusy/Documents/Projects/test-polly-retry/application/bin/Debug/net8.0/application.pdb
+/Users/kevinkusy/Documents/Projects/test-polly-retry/application/bin/Debug/net8.0/domain.dll
+/Users/kevinkusy/Documents/Projects/test-polly-retry/application/bin/Debug/net8.0/domain.pdb
+/Users/kevinkusy/Documents/Projects/test-polly-retry/application/obj/Debug/net8.0/application.csproj.AssemblyReference.cache
+/Users/kevinkusy/Documents/Projects/test-polly-retry/application/obj/Debug/net8.0/application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevinkusy/Documents/Projects/test-polly-retry/application/obj/Debug/net8.0/application.AssemblyInfoInputs.cache
+/Users/kevinkusy/Documents/Projects/test-polly-retry/application/obj/Debug/net8.0/application.AssemblyInfo.cs
+/Users/kevinkusy/Documents/Projects/test-polly-retry/application/obj/Debug/net8.0/application.csproj.CoreCompileInputs.cache
+/Users/kevinkusy/Documents/Projects/test-polly-retry/application/obj/Debug/net8.0/applicat.45FA8C82.Up2Date
+/Users/kevinkusy/Documents/Projects/test-polly-retry/application/obj/Debug/net8.0/application.dll
+/Users/kevinkusy/Documents/Projects/test-polly-retry/application/obj/Debug/net8.0/refint/application.dll
+/Users/kevinkusy/Documents/Projects/test-polly-retry/application/obj/Debug/net8.0/application.pdb
+/Users/kevinkusy/Documents/Projects/test-polly-retry/application/obj/Debug/net8.0/ref/application.dll
