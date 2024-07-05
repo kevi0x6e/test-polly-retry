@@ -12,7 +12,7 @@ Polly is a .NET library that includes Retry. It allows us to automatically retry
 
 ```bash
 # Download
-$ git clone LINK-GITHUB-PROJECT && cd test-polly-retry
+$ git clone https://github.com/kevi0x6e/test-polly-retry.git && cd test-polly-retry
 
 # Install libs and dependencies
 $ dotnet restore
