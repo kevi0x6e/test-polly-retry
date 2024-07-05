@@ -13,3 +13,4 @@
 /Users/kevinkusy/Documents/Projects/test-polly-retry/application/obj/Debug/net8.0/refint/application.dll
 /Users/kevinkusy/Documents/Projects/test-polly-retry/application/obj/Debug/net8.0/application.pdb
 /Users/kevinkusy/Documents/Projects/test-polly-retry/application/obj/Debug/net8.0/ref/application.dll
+/Users/kevinkusy/Documents/Projects/test-polly-retry/application/obj/Debug/net8.0/application.sourcelink.json

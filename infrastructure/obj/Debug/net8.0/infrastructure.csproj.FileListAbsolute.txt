@@ -15,3 +15,4 @@
 /Users/kevinkusy/Documents/Projects/test-polly-retry/infrastructure/obj/Debug/net8.0/refint/infrastructure.dll
 /Users/kevinkusy/Documents/Projects/test-polly-retry/infrastructure/obj/Debug/net8.0/infrastructure.pdb
 /Users/kevinkusy/Documents/Projects/test-polly-retry/infrastructure/obj/Debug/net8.0/ref/infrastructure.dll
+/Users/kevinkusy/Documents/Projects/test-polly-retry/infrastructure/obj/Debug/net8.0/infrastructure.sourcelink.json

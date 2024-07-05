@@ -1,0 +1,478 @@
+# Ignore Visual Studio temporary files, build results, and
+# folder-based project configuration
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (Mono Auto Generated)
+mono_crash.*
+
+# User-specific files (VS Code)
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# User-specific files (VS Code) Windows
+.vscode/*
+
+# User-specific files (VS Code) Linux/macOS
+.vscode/*
+
+# Local History for Visual Studio
+.localhistory
+
+# Windows image file caches
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows shortcuts
+*.lnk
+
+# User-specific files
+*_i.c
+*_p.c
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+*.orig
+
+# Files built by Visual Studio
+*_i.c
+*_p.c
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+*.orig
+
+# Directories built by Visual Studio
+bin
+obj
+Debug/
+Release/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+# NuGet Symbol Packages
+*.symbols.nupkg
+
+# The packages folder can be ignored because of the presence of restore.cmd/build.cmd,
+# but should be included if you have the packages configured to use local libraries.
+# Packages
+*.nupkg
+# The content of the packages folder
+**/packages/*/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+**/project.lock.json
+**/project.fragment.lock.json
+project.assets.json
+**/project.assets.json
+project.nuget.cache
+**/project.nuget.cache
+
+# Auto-generated VS2012+ and vs.net configuration files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows shortcuts
+*.lnk
+
+# Windows and Linux file system
+$tf/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows shortcuts
+*.lnk
+
+# JetBrains Rider
+.idea/
+
+# JetBrains Rider files
+.idea/
+*.sln.iml
+
+# Rider-generated files
+.idea/.idea.icf
+
+# Rider auto-generated files
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+
+# Rider project-specific
+.idea/*.iml
+.idea/modules.xml
+.idea/workspace.xml
+
+# Rider out directory
+out/
+
+# Rider specific
+.idea/.idea.icf
+.idea/.idea.caches
+.idea/.idea.cache
+.idea/.idea.configurations
+.idea/.idea.generation
+
+# Rider storage
+.idea/libraries
+.idea/shelf
+
+# Rider cache files
+.idea/.idea.cache
+.idea/.idea.build
+.idea/.idea.caches
+.idea/.idea.configurations
+.idea/.idea.editor
+.idea/.idea.generation
+.idea/.idea.modules
+.idea/.idea.push.xml
+.idea/.idea.reports
+.idea/.idea.shelf
+.idea/.idea.workspace
+
+# Rider settings
+.idea/codeStyles
+.idea/colorSchemes
+.idea/dictionaries
+.idea/keymaps
+.idea/inspections
+.idea/libraries
+.idea/macros
+.idea/scope_settings
+.idea/scopes
+.idea/vcs.xml
+.idea/encodings.xml
+.idea/inspectionProfiles
+.idea/fileTemplates
+.idea/assetWizard
+.idea/codeStyles
+.idea/colorSchemes
+.idea/cvs
+.idea/dictionaries
+.idea/fileTemplates
+.idea/inspectionProfiles
+.idea/intellijPreferences.xml
+.idea/jsLibraryMappings.xml
+.idea/keymaps
+.idea/libraries
+.idea/mavenLibraries.xml
+.idea/modules.xml
+.idea/plugins
+.idea/portProfiles
+.idea/runConfigurations
+.idea/scopes
+.idea/serverEditorSettings.xml
+.idea/serverResources.xml
+.idea/serverSettings.xml
+.idea/uiDesigner.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/dataSources
+.idea/dataSources.ids
+.idea/dataSources.local.xml
+.idea/dataSources.xml
+.idea/dataSources/
+
+# Rider caches
+.idea/caches/
+.idea/cache/
+.idea/cache-libraries/
+.idea/cache-persisted/
+.idea/libraries/
+.idea/caches/
+.idea/libraries/
+.idea/persistence.xml
+
+# Rider storage
+.idea/compile-server
+.idea/caches/
+.idea/dataSources.xml
+.idea/dataSources/
+
+# Rider settings
+.idea/codeStyles
+.idea/colorSchemes
+.idea/dictionaries
+.idea/keymaps
+.idea/inspections
+.idea/libraries
+.idea/macros
+.idea/scope_settings
+.idea/scopes
+.idea/vcs.xml
+.idea/encodings.xml
+.idea/inspectionProfiles
+.idea/fileTemplates
+
+# Rider caches
+.idea/caches/
+.idea/cache/
+.idea/cache-libraries/
+.idea/cache-persisted/
+.idea/libraries/
+.idea/caches/
+.idea/libraries/
+.idea/persistence.xml
+
+# Rider storage
+.idea/compile-server
+.idea/caches/
+.idea/dataSources.xml
+.idea/dataSources/
+
+# Rider settings
+.idea/codeStyles
+.idea/colorSchemes
+.idea/dictionaries
+.idea/keymaps
+.idea/inspections
+.idea/libraries
+.idea/macros
+.idea/scope_settings
+.idea/scopes
+.idea/vcs.xml
+.idea/encodings.xml
+.idea/inspectionProfiles
+.idea/fileTemplates
+
+# Rider caches
+.idea/caches/
+.idea/cache/
+.idea/cache-libraries/
+.idea/cache-persisted/
+.idea/libraries/
+.idea/caches/
+.idea/libraries/
+.idea/persistence.xml
+
+# Rider storage
+.idea/compile-server
+.idea/caches/
+.idea/dataSources.xml
+.idea/dataSources/
+
+# Rider settings
+.idea/codeStyles
+.idea/colorSchemes
+.idea/dictionaries
+.idea/keymaps
+.idea/inspections
+.idea/libraries
+.idea/macros
+.idea/scope_settings
+.idea/scopes
+.idea/vcs.xml
+.idea/encodings.xml
+.idea/inspectionProfiles
+.idea/fileTemplates
+
+# Rider caches
+.idea/caches/
+.idea/cache/
+.idea/cache-libraries/
+.idea/cache-persisted/
+.idea/libraries/
+.idea/caches/
+.idea/libraries/
+.idea/persistence.xml
+
+# Rider storage
+.idea/compile-server
+.idea/caches/
+.idea/dataSources.xml
+.idea/dataSources/
+
+# Rider settings
+.idea/codeStyles
+.idea/colorSchemes
+.idea/dictionaries
+.idea/keymaps
+.idea/inspections
+.idea/libraries
+.idea/macros
+.idea/scope_settings
+.idea/scopes
+.idea/vcs.xml
+.idea/encodings.xml
+.idea/inspectionProfiles
+.idea/fileTemplates
+
+# Rider caches
+.idea/caches/
+.idea/cache/
+.idea/cache-libraries/
+.idea/cache-persisted/
+.idea/libraries/
+.idea/caches/
+.idea/libraries/
+.idea/persistence.xml
+
+# Rider storage
+.idea/compile-server
+.idea/caches/
+.idea/dataSources.xml
+.idea/dataSources/
+
+# Rider settings
+.idea/codeStyles
+.idea/colorSchemes
+.idea/dictionaries
+.idea/keymaps
+.idea/inspections
+.idea/libraries
+.idea/macros
+.idea/scope_settings
+.idea/scopes
+.idea/vcs.xml
+.idea/encodings.xml
+.idea/inspectionProfiles
+.idea/fileTemplates
+
+# Rider caches
+.idea/caches/
+.idea/cache/
+.idea/cache-libraries/
+.idea/cache-persisted/
+.idea/libraries/
+.idea/caches/
+.idea/libraries/
+.idea/persistence.xml
+
+# Rider storage
+.idea/compile-server
+.idea/caches/
+.idea/dataSources.xml
+.idea/dataSources/
+
+# Rider settings
+.idea/codeStyles
+.idea/colorSchemes
+.idea/dictionaries
+.idea/keymaps
+.idea/inspections
+.idea/libraries
+.idea/macros
+.idea/scope_settings
+.idea/scopes
+.idea/vcs.xml
+.idea/encodings.xml
+.idea/inspectionProfiles
+.idea/fileTemplates
+
+# Rider caches
+.idea/caches/
+.idea/cache/
+.idea/cache-libraries/
+.idea/cache-persisted/
+.idea/libraries/
+.idea/caches/
+.idea/libraries/
+.idea/persistence.xml
+
+# Rider storage
+.idea/compile-server
+.idea/caches/
+.idea/dataSources.xml
+.idea/dataSources/
+
+# Rider settings
+.idea/codeStyles
+.idea/colorSchemes
+.idea/dictionaries
+.idea/keymaps
+.idea/inspections
+.idea/libraries
+.idea/macros
+.idea/scope_settings
+.idea/scopes
+.idea/vcs.xml
+.idea/encodings.xml
+.idea/inspectionProfiles
+.idea/fileTemplates
+
+# Rider caches
+.idea/caches/
+.idea/cache/
+.idea/cache-libraries/
+.idea/cache-persisted/
+.idea/libraries/
+.idea/caches/
+.idea/l

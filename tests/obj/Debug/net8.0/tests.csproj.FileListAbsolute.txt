@@ -125,3 +125,4 @@
 /Users/kevinkusy/Documents/Projects/test-polly-retry/tests/obj/Debug/net8.0/Tests.pdb
 /Users/kevinkusy/Documents/Projects/test-polly-retry/tests/obj/Debug/net8.0/Tests.genruntimeconfig.cache
 /Users/kevinkusy/Documents/Projects/test-polly-retry/tests/obj/Debug/net8.0/ref/Tests.dll
+/Users/kevinkusy/Documents/Projects/test-polly-retry/tests/obj/Debug/net8.0/tests.sourcelink.json
